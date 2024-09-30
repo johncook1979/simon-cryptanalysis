@@ -6,25 +6,25 @@ This repo has the following structure
 readme.md
 one_way_aanysis
 
-  L__ simon_32.py
+*   simon_32.ipynb
   
-  L__ simon_32.py
+*  simon_32.ipynb
   
 two_way_analysis
 
-  L__ simon_32_two_way.py
+*  simon_32_two_way.ipynb
   
-  L__ simeck_32_two_way.py
+*  simeck_32_two_way.ipynb
   
 pddt
 
-  L__ alph.txt
+*  alph.txt
   
-  L__ bet.txt
+*  bet.txt
   
-  L__ gam.txt
+*  gam.txt
   
-  L__ pro.txt
+*  pro.txt
   
 
 ## Executing code
