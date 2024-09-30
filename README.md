@@ -3,28 +3,30 @@ VISTA-CRYPT is a lightweight cryptanalysis method for Internet of Things (IoT) e
 
 ## Directory structure
 This repo has the following structure
-readme.md
-one_way_aanysis
 
-*   simon_32.ipynb
-  
-*  simon_32.ipynb
-  
-two_way_analysis
+_readme.md_
 
-*  simon_32_two_way.ipynb
-  
-*  simeck_32_two_way.ipynb
-  
-pddt
+__one_way_aanysis__
 
-*  alph.txt
+*   _simon_32.ipynb_
   
-*  bet.txt
+*  _simon_32.ipynb_
   
-*  gam.txt
+__two_way_analysis__
+
+*  _simon_32_two_way.ipynb_
   
-*  pro.txt
+*  _simeck_32_two_way.ipynb_
+  
+__pddt__
+
+*  _alph.txt_
+  
+*  _bet.txt_
+  
+* _gam.txt_
+  
+*  _pro.txt_
   
 
 ## Executing code
