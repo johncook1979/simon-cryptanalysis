@@ -45,15 +45,15 @@ Cook, J., Rehman, S. ur and Arif Khan, M. (2024). Lightweight Cryptanalysis of I
 J. Cook, S. ur Rehman, and M. Arif Khan, “Lightweight Cryptanalysis of IoT Encryption Algorithms: Is Quota Sampling the Answer?,” IEEE Access, pp. 1–1, 2024, doi: https://doi.org/10.1109/access.2024.3472014.
 
 ## BibTex
-@ARTICLE{10703066,
-  author={Cook, Jonathan and Rehman, Sabih ur and Arif Khan, M.},
-  journal={IEEE Access}, 
-  title={Lightweight Cryptanalysis of IoT Encryption Algorithms: Is Quota Sampling the Answer?}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Ciphers;Internet of Things;Encryption;Monte Carlo methods;Hamming weight;Symbols;Object recognition;Mathematics;Heuristic algorithms;Australia;Differential cryptanalysis;Internet of Things (IoT);Lightweight Encryption;SIMON;SIMECK;Quota sampling},
-  doi={10.1109/ACCESS.2024.3472014}
+@ARTICLE{10703066,  
+  author={Cook, Jonathan and Rehman, Sabih ur and Arif Khan, M.},  
+  journal={IEEE Access},   
+  title={Lightweight Cryptanalysis of IoT Encryption Algorithms: Is Quota Sampling the Answer?},   
+  year={2024},  
+  volume={},  
+  number={},  
+  pages={1-1},  
+  keywords={Ciphers;Internet of Things;Encryption;Monte Carlo methods;Hamming weight;Symbols;Object recognition;Mathematics;Heuristic algorithms;Australia;Differential cryptanalysis;Internet of Things (IoT);Lightweight Encryption;SIMON;SIMECK;Quota sampling},  
+  doi={10.1109/ACCESS.2024.3472014}  
 }
 
