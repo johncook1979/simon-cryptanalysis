@@ -6,7 +6,7 @@ This repo has the following structure
 
 _readme.md_
 
-__one_way_aanysis__
+__one_way_analysis__
 
 *   _simon_32.ipynb_
   
