@@ -1,0 +1,21 @@
+title: 'Lightweight Cryptanalysis of IoT Encryption Algorithms: Is Quota Sampling the Answer?'
+abstract: Rapid growth in the number of small sensor devices known as the Internet of Things (IoT) has seen the development of lightweight encryption algorithms. Two well-known lightweight algorithms are SIMON and SIMECK which have been specifically designed for use on resource-constrained IoT devices. These lightweight encryption algorithms are based on the efficient Feistel block structure which is known to exhibit vulnerabilities to differential cryptanalysis. Consequently, it is necessary to test these algorithms for resilience against such attacks. While existing state-of-the-art research has demonstrated novel heuristic methods of differential cryptanalysis that improve time efficiency on previous techniques, the large state sizes of these encryption algorithms inhibit cryptanalysis time efficiency. In this paper, we introduce Versatile Investigative Sampling Technique for Advanced Cryptanalysis (VISTA-CRYPT) - a time-efficient enhancement of differential cryptanalysis of lightweight encryption algorithms. The proposed technique introduces a simple framework of quota sampling that produces state-of-the-art results with time reductions of up to 76% over existing techniques. Further, we present a preliminary graph-based analysis of the output differentials for the identification of relationships within the data and future research opportunities to further enhance the performance of differential cryptanalysis. The code designed for this work and associated datasets will be available at https://github.com/johncook1979/simon-cryptanalysis.
+doi: 10.1109/ACCESS.2024.3472014
+repository-code: https://github.com/johncook1979/simon-cryptanalysis/
+version: 1.0.0
+date-released: 2024-10-02
+message: If you use this software, please cite it as below.
+authors:
+  - given-names: Jonathan
+    family-names: Cook
+    orcid: "https://orcid.org/0000-0001-8113-1296"
+    affiliation: School of Computing Mathematics and Engineering Charles Sturt University, Port Macquarie, NSW, Australia
+  - given-names: Sabih
+    family-names: Rehman
+    orcid: "https://orcid.org/0000-0001-7717-2773"
+    affiliation: School of Computing Mathematics and Engineering Charles Sturt University, Port Macquarie, NSW, Australia
+  - given-names: M. Arif
+    family-names: Khan
+    orcid: "https://orcid.org/0000-0001-6112-8874"
+    affiliation: ' School of Computing, Mathematics and Engineering, Charles Sturt University, Wagga Wagga, NSW, Australia'
+cff-version: 1.2.0
