@@ -10,7 +10,7 @@ __one_way_analysis__
 
 *   _simon_32.ipynb_
   
-*  _simon_32.ipynb_
+*  _simeck_32.ipynb_
   
 __two_way_analysis__
 
