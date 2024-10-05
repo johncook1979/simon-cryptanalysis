@@ -8,7 +8,7 @@ _readme.md_
 
 __one_way_analysis__
 
-*   _simon_32.ipynb_
+*   _SIMON_32_timings_stratified_sampling.ipynb_
   
 *  _simeck_32.ipynb_
   
