@@ -14,9 +14,9 @@ __one_way_analysis__
   
 __two_way_analysis__
 
-*  _simon_32_two_way.ipynb_
+*  _SIMON32-rev-stratified-sampling.ipynb_
   
-*  _simeck_32_two_way.ipynb_
+*  _SIMECK32-rev-stratified-sampling.ipynb_
   
 __pddt__
 
