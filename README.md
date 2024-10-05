@@ -10,7 +10,7 @@ __one_way_analysis__
 
 *   _SIMON_32_timings_stratified_sampling.ipynb_
   
-*  _simeck_32.ipynb_
+*  _SIMECK_32_stratified_sampling.ipynb_
   
 __two_way_analysis__
 
