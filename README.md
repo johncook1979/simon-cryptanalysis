@@ -27,10 +27,13 @@ __pddt__
 * _gam.txt_
   
 *  _pro.txt_
-  
+
+## Prerequisites
+Either Visual Studio Code or Jupyter Notebook to execute Python code. 
+Familiarity with Python is a benefit.
 
 ## Executing code
-When executing the code, ensure you are using either Jupyter Notebook or Visual Studio with python. The 4 text files should be in the same directory as the executed files, or modify the code to reference their correct location.
+When executing the code, ensure you are using either Jupyter Notebook or Visual Studio with Python. The 4 text files should be in the same directory as the executed files, or modify the code to reference their correct location.
 
 ## Reference
 If you intend on using this repository we request you reference using the following:
