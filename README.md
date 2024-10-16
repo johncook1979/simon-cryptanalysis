@@ -1,5 +1,5 @@
 # VISTA-CRYPT 
-VISTA-CRYPT is a lightweight cryptanalysis method for Internet of Things (IoT) encryption algorithms SIMON and SIMECK. VISTA-CRYPT utilises quota sampling to reduce variance within the differentials and improve overall search efficiency using a Nested Monte Carlo Search (NMCS) method. VISTA-CRYPT optimises NMCS to identify the best differential path.
+VISTA-CRYPT is a lightweight cryptanalysis method for Internet of Things (IoT) encryption algorithms SIMON and SIMECK. VISTA-CRYPT utilises quota sampling to reduce variance within the differentials and improve overall search efficiency using a Nested Monte Carlo Search (NMCS) method. VISTA-CRYPT optimises NMCS to identify the best differential path. [This article published in IEEE Access](https://ieeexplore.ieee.org/abstract/document/10703066/) is related to this repository
 
 ## Directory structure
 This repo has the following structure
