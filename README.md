@@ -6,7 +6,7 @@ This repo has the following structure
 
 _readme.md_
 
-__one_way_analysis__
+[__one_way_analysis__](https://github.com/johncook1979/simon-cryptanalysis/tree/main/one_way_analysis)
 
 *   _SIMON_32_timings_stratified_sampling.ipynb_
   
