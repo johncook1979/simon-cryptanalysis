@@ -8,25 +8,25 @@ _readme.md_
 
 [__one_way_analysis__](https://github.com/johncook1979/simon-cryptanalysis/tree/main/one_way_analysis)
 
-*   _SIMON_32_timings_stratified_sampling.ipynb_
+*   [_SIMON_32_timings_stratified_sampling.ipynb_](https://github.com/johncook1979/simon-cryptanalysis/blob/main/one_way_analysis/SIMON_32_timings_stratified_sampling.ipynb)
   
-*  _SIMECK_32_stratified_sampling.ipynb_
+*  [_SIMECK_32_stratified_sampling.ipynb_](https://github.com/johncook1979/simon-cryptanalysis/blob/main/one_way_analysis/SIMECK_32_stratified_sampling.ipynb)
   
-__two_way_analysis__
+[__two_way_analysis__](https://github.com/johncook1979/simon-cryptanalysis/tree/main/two_way_analysis)
 
-*  _SIMON32-rev-stratified-sampling.ipynb_
+*  [_SIMON32-rev-stratified-sampling.ipynb_](https://github.com/johncook1979/simon-cryptanalysis/blob/main/two_way_analysis/SIMON32-rev-stratified-sampling.ipynb)
   
-*  _SIMECK32-rev-stratified-sampling.ipynb_
+*  [_SIMECK32-rev-stratified-sampling.ipynb_](https://github.com/johncook1979/simon-cryptanalysis/blob/main/two_way_analysis/SIMECK32-rev-stratified-sampling.ipynb)
   
-__pddt__
+[__pddt__](https://github.com/johncook1979/simon-cryptanalysis/tree/main/pddt)
 
-*  _alph.txt_
+*  [_alph.txt_](https://github.com/johncook1979/simon-cryptanalysis/blob/main/pddt/alph.txt)
   
-*  _bet.txt_
+*  [_bet.txt_](https://github.com/johncook1979/simon-cryptanalysis/blob/main/pddt/bet.txt)
   
-* _gam.txt_
+* [_gam.txt_](https://github.com/johncook1979/simon-cryptanalysis/blob/main/pddt/gam.txt)
   
-*  _pro.txt_
+*  [_pro.txt_](https://github.com/johncook1979/simon-cryptanalysis/blob/main/pddt/pro.txt)
 
 ## Prerequisites
 Either Visual Studio Code or Jupyter Notebook to execute Python code. 
